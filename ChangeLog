@@ -1,0 +1,8 @@
+V_2-2:
+    ajout de la syncronisation exterieur, calcul du bpm exterieur
+
+V_2-1:
+    modification d'ordre de prioritée du sequenceur pour avoir une syncronisation sans décalage des temps en fonction de la line.
+
+V_2-0:
+    changement de type d'approche, code plus conforme a la PEP, garder uniquement les variables éssentielles, minimiser les bugs de corrélation.
