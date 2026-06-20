@@ -5,3 +5,4 @@ Par défaut une plage allant de 60 a 260 bpm et une sync-in/sync-out pour le ren
 Ce sequenceur repose sur le systéme d'une matrice de 8 line avec du 1/1t, 1/2t et 1/4t.
 Posséde une Attack modulable.
 
+Sous license CC-BY-NC-SA
