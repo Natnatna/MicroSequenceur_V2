@@ -6,3 +6,12 @@ Ce sequenceur repose sur le systéme d'une matrice de 8 line avec du 1/1t, 1/2t 
 Posséde une Attack modulable.
 
 Sous license CC-BY-NC-SA
+
+
+## Instalation
+
+### 1) près requis:
+
+### 2) branchement:
+
+## Utilisation
