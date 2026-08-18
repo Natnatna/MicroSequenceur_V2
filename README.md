@@ -11,7 +11,11 @@ Sous license CC-BY-NC-SA
 ## Instalation
 
 ### 1) près requis:
+•Raspberry Pico ou équivalent supportant MicroPython
+•MicroPython installer sur la carte
 
 ### 2) branchement:
+•Se référencer au schéma 
 
 ## Utilisation
+•Polyvalente pour Modular System
