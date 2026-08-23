@@ -10,27 +10,22 @@ Sous license CC-BY-NC-SA
 
 ## Instalation
 
-### 1) Liste des composants :
-•Raspberry Pico ou équivalent supportant MicroPython
+### 1)    Liste des composants :
+* Raspberry Pico ou équivalent supportant MicroPython
+* 64 interrupteurs
+* 15 transistor NPN 2N904
+* 2 potentiomètre 
+* 1 LED indicateur BPM
+* 8 LED indicateur Line
 
-•64 interrupteurs
+### 2)    Firmware
+MicroPython installer sur la carte
 
-•15 transistor NPN 2N904
-
-•2 potentiomètre 
-
-•1 LED indicateur BPM
-
-•8 LED indicateur Line
-
-### 2 Firmware
-•MicroPython installer sur la carte
-
-### 3) Branchement :
-•Se référencer au schéma 
+### 3)    Branchement :
+->Se référencer au schéma 
 
 
 Line_1:
 ![](IMG_20260820_202822.jpg "Line")
 ## Utilisation
-•Polyvalente pour Modular System
+Polyvalente pour Modular System
