@@ -17,7 +17,11 @@ Sous license CC-BY-NC-SA
 
 •15 transistor NPN 2N904
 
-•8 LED d'indicateur Line
+•2 potentiomètre 
+
+•1 LED indicateur BPM
+
+•8 LED indicateur Line
 
 ### 2 Firmware
 •MicroPython installer sur la carte
