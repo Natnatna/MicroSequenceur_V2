@@ -10,12 +10,19 @@ Sous license CC-BY-NC-SA
 
 ## Instalation
 
-### 1) près requis:
+### 1) Liste des composants :
 •Raspberry Pico ou équivalent supportant MicroPython
 
+•64 interrupteurs
+
+•15 transistor NPN 2N904
+
+•8 LED d'indicateur Line
+
+### 2 Firmware
 •MicroPython installer sur la carte
 
-### 2) branchement:
+### 3) Branchement :
 •Se référencer au schéma 
 
 
