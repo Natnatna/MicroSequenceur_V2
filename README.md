@@ -18,7 +18,7 @@ Sous license CC-BY-NC-SA
 * 1 LED indicateur BPM
 * 8 LED indicateur Line
 
-### 2)    Firmware
+### 2)    Firmware :
 MicroPython installer sur la carte
 
 ### 3)    Branchement :
