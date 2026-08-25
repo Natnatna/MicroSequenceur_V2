@@ -27,7 +27,8 @@ MicroPython installer sur la carte
 
 Line_1:
 ![](IMG_20260820_202822.jpg "Line")
-
+Montage avec LED indicateur:
+![](IMG_20260824_161829~2.jpg "LED indicateur sur Line")
 vérifiez que le circuit soit correct avec le fichier test `test_line.py`
 ## Utilisation
 Polyvalente pour Modular System
