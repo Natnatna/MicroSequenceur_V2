@@ -28,8 +28,8 @@ Optionnel:
 MicroPython installer sur la carte
 
 ### 3)    Branchement :
-->Se référencer au schéma 
-![Schéma pdf](Microsequenceur_V2.pdf "schema")
+->Se référencer au schéma [Schema pdf](Microsequenceur_V2.pdf)
+![Schéma png](Microsequenceur_V2.png "img schema")
 
 Line_1:
 ![](IMG_20260820_202822.jpg "Line")
