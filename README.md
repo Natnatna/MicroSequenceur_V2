@@ -35,5 +35,6 @@ vérifiez que le circuit soit correct avec le fichier test [test_line.py](TEST/t
 indicateur de position:
 [schéma pdf](DOC/26-08-26LED_Indicator-REV1.pdf)
 ![schéma png](DOC/26-08-26LED_Indicator-REV1.png)
+vérifiez que le circuit soit correct avec le fichier test [test_line_complite.py](TEST/test_line_complite.py)
 ## Utilisation
 Polyvalente pour Modular System
