@@ -26,10 +26,14 @@ MicroPython installer sur la carte
 
 ### 3)    Branchement :
 ->Se référencer au schéma [Schema pdf](Microsequenceur_V2.pdf)
-![Schéma png](Microsequenceur_V2.png "img schema")
+![Schéma png](DOC/Microsequenceur_V2.png "img schema")
 
 Line_1:
-![](IMG_20260820_202822.jpg "Line")
+![](DOC/IMG_20260820_202822.jpg "Line")
 vérifiez que le circuit soit correct avec le fichier test [test_line.py](TEST/test_line.py) et [test_line_complite.py](TEST/test_line_complite.py) pour la condition semi-réel
+
+indicateur de position:
+[schéma pdf](DOC/)
+![](DOC/)
 ## Utilisation
 Polyvalente pour Modular System
