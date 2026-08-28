@@ -27,6 +27,7 @@ Sous license CC-BY-NC-SA
 ### 2)    Firmware :
 MicroPython installer sur la carte
 
+Copier/Remplacer la dernière [version](Version/) dans le fichier `main.py` de la carte 
 ### 3)    Branchement :
 ->Se référencer au schéma [Schema pdf](Microsequenceur_V2.pdf)
 ![Schéma png](DOC/Microsequenceur_V2.png "img schema")
