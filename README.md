@@ -14,11 +14,14 @@ Sous license CC-BY-NC-SA
 * Raspberry Pico ou équivalent supportant MicroPython
 * 64 interrupteurs
 * 15 transistor NPN 2N904
-* 15 résistance 1K Ohm
+* 4 transistor NPN 2N2222
+* 19 résistance 1K Ohm
 * 2 potentiomètre 
-* 1 LED indicateur BPM
-* 8 LED indicateur Line
-* 8 résistance 100 Ohm
+* 1 LED 3v indicateur BPM
+* 8 LED 3v indicateur Line
+* 32 LED 2v
+* 9 résistance 15 Ohm
+* 8 résistance 65 Ohm
 
 
 ### 2)    Firmware :
