@@ -33,7 +33,7 @@ Line_1:
 vérifiez que le circuit soit correct avec le fichier test [test_line.py](TEST/test_line.py) et [test_line_complite.py](TEST/test_line_complite.py) pour la condition semi-réel
 
 indicateur de position:
-[schéma pdf](DOC/)
-![](DOC/)
+[schéma pdf](DOC/26-08-26LED_Indicator-REV1.pdf)
+![schéma png](DOC/26-08-26LED_Indicator-REV1.png)
 ## Utilisation
 Polyvalente pour Modular System
